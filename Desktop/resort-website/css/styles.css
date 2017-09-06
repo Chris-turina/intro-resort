@@ -1,15 +1,15 @@
 h1 {
-  color: darkred;
+  color: darkgreen;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: green;
 }
 
 body {
-  background-color: salmon;
+  background-color: limegreen;
   font-family: sans-serif;
   text-align: center;
 }
