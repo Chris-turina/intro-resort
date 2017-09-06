@@ -1,28 +1,21 @@
 h1 {
-<<<<<<< HEAD
-  color: turquoise;
-  font-family: helvetica;
-}
-
-h2 {
   color: purple;
-}
-
-body {
-  background-color: beige;
-=======
-  color: darkgreen;
   text-align: center;
+  font-family: cursive;
+  font-size: 40px;
 }
 
 h2 {
   font-style: italic;
-  color: green;
+  color: violet;
+}
+
+p {
+  color: crimson
 }
 
 body {
-  background-color: limegreen;
+  background-color: beige;
   font-family: sans-serif;
   text-align: center;
->>>>>>> style_2
 }
